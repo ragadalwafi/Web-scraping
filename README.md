@@ -57,14 +57,8 @@ This project reflects practical skills in:
 
 ---
 
-##  Demo Preview
+##  Web Scraping Source 
 
-
-## Application  - User Input
-[Watch the demo](https://github.com/user-attachments/assets/df110cee-08d5-4a02-8904-a13919fc1d35)
-
-## Application  - Sentiment Analysis Dashboard
-[Watch the demo](https://github.com/user-attachments/assets/5ebf57f2-889b-4c02-aa27-cc32c7571885)
 
 
 
